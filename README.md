@@ -10,9 +10,8 @@
 </ul> 
 
 <a id='Dictionary'></a>
-- `you can find the data here <https://www.kaggle.com/c/pubg-finish-placement-prediction>`__.
 ## Data Dictionary
-
+- `you can find the data here ---> https://www.kaggle.com/c/pubg-finish-placement-prediction <---
 - **groupId** - Integer ID to identify a group within a match. If the same group of players plays in different matches, they will have a different groupId each time.
 - **matchId** - Integer ID to identify match. There are no matches that are in both the training and testing set.
 - **assists** - Number of enemy players this player damaged that were killed by teammates.
@@ -50,3 +49,12 @@
 
 
 - **What's the best strategy to win in PUBG? Should you sit in one spot and hide your way into victory, or do you need to be the top shot? Let's let the data do the talking!**
+
+
+ <a id='conclusions'></a>
+# Conclusions
+
+**After analyzing and understanding the data is time to answer a question:**
+# What's the best strategy to win in PUBG?
+
+### Whenever you played in a team increased your chance to win and find aid to have other opportunities, In addition to increasing the number of killers you kill them , Taking into account that if the competitor kills more than you, you are an exhibition of loss so you must develop your skills in murder from distances and focus when shooting on the head, Must move so much until they do not give an opportunity to hit you and always try to collect weapons and find vehicles
