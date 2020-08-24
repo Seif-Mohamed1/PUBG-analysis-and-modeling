@@ -10,8 +10,9 @@
 </ul> 
 
 <a id='Dictionary'></a>
+- `you can find the data here <https://www.kaggle.com/c/pubg-finish-placement-prediction>`__.
 ## Data Dictionary
- - `you can find the data here <https://www.kaggle.com/c/pubg-finish-placement-prediction>`__.
+
 - **groupId** - Integer ID to identify a group within a match. If the same group of players plays in different matches, they will have a different groupId each time.
 - **matchId** - Integer ID to identify match. There are no matches that are in both the training and testing set.
 - **assists** - Number of enemy players this player damaged that were killed by teammates.
